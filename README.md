@@ -1,4 +1,4 @@
-# Deep_Learning_Classification
+# German Credit Card Worthiness Classification Using Deep Learning
 
 This project focuses on building and evaluating machine learning and deep learning models for classifying credit risks using the German Credit dataset. The primary objective is to predict whether a customer is a good or bad credit risk based on various demographic, financial, and behavioral attributes. The workflow includes data preprocessing, exploratory analysis, model development, hyperparameter tuning, and saving artifacts for deployment.
 
